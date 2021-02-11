@@ -1,0 +1,11 @@
+[time]
+disabled = false
+format = "Still rockin' @[$time]($style)"
+time_format = "%r"
+
+[character]
+success_symbol = "[>](bold green)"
+error_symbol = "[>](bold red)"
+
+[git_branch]
+format = "⮕ [$branch]($style) "
